@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.pingcap.com/blog/ai-takes-over-github-analysis-the-future-of-data-science-is-here/](https://Mustaqim-Alam.io)
+
 <h1 align="center">Hi 👋, I'm Md Mustaqim Alam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://creativemarket.com/Anutik45/577175-programming-coding-vector">
