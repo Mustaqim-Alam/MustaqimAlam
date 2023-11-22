@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29%2F68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133&tbnid=YX-6heqmtoyG0M&vet=12ahUKEwjgiKXO6teCAxVUTWwGHdzFBBsQxiAoAXoECAAQJA..i&imgrefurl=https%3A%2F%2Fgithub.com%2FnaveenSaini1%2FnaveenSaini1&docid=P2B5teAIM7WUaM&w=1240&h=480&itg=1&q=banner%20for%20github%20profile&ved=2ahUKEwjgiKXO6teCAxVUTWwGHdzFBBsQxiAoAXoECAAQJA))](https://Mustaqim-Alam.io)
+[![MasterHead]([https://www.pingcap.com/blog/ai-takes-over-github-analysis-the-future-of-data-science-is-here/](https://Mustaqim-Alam.io)
 <h1 align="center">Hi 👋, I'm Md Mustaqim Alam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://creativemarket.com/Anutik45/577175-programming-coding-vector">
